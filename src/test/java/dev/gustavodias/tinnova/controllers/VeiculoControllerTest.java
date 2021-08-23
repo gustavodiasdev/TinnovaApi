@@ -126,7 +126,7 @@ public class VeiculoControllerTest {
     }
 
     @Test
-    public void deletePatientById_success() throws Exception {
+    public void deleteVeiculoById_success() throws Exception {
         Mockito.when(veiculoService.buscarVeiculoPeloID(RECORD_2.getId())).thenReturn(RECORD_2);
 
         mockMvc.perform(MockMvcRequestBuilders
