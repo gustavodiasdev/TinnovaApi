@@ -1,4 +1,4 @@
-# API Tinnova Test
+# API Tinnova Test [![Build Status](https://app.travis-ci.com/gustavodiasdev/TinnovaApi.svg?branch=main)](https://app.travis-ci.com/gustavodiasdev/TinnovaApi)
 
 ### Sobre o projeto:
 Projeto criado conforme especificado pela Tinnova para criação das APIs em Java/Spring.
